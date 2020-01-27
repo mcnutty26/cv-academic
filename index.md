@@ -12,7 +12,9 @@ DPhil Researcher
 
 ## Research Interests
 
-The modern connected home can be a busy and confusing space. My research focusses on understanding the concerns that people have when they use smart/connected devices, both for themselves and their families. This insight is used to develop solutions and design artefacts that empower people to take control of their privacy and autonomy, pushing back unwanted encroachment of the digital on everyday life.
+The modern connected home can be a busy and confusing space. My research uses a diverse set of methodologies to understand the concerns that people have when they use smart/connected devices, both for themselves and their families. This insight is used to develop solutions and design artefacts that empower people to take control of their privacy and autonomy, pushing back unwanted encroachment of the digital on everyday life.
+
+In the future I hope to further explore the design space for privacy-empowering technologies in the home, finding novel ways to communicate the workings and behaviour of devices. This includes incorporating philosopical ideas of respect more deeply into my work, striving to produce technology that promotes human flourishing and works with, rather than against, the existing social dynamics of the home.
 
 ## Projects
 
@@ -29,7 +31,7 @@ Drawing on thinking from Kant to the present day, I explored how philosophical a
 `2019`
 __IoT in the Home Demonstrator__, EPSRC
 
-I developed a smart home network disaggregator that analyses and visualises network traffic flows in the home. Users are presented with a breakdown of the companies to which their devices send data, as well as their geographic location. Later versions of the disaggregator also featured an educational curriculum and firewall control.
+I developed the Aretha smart home network disaggregator that analyses and visualises network traffic flows in the home. Users are presented with a breakdown of the companies to which their devices send data, as well as their geographic location. Aretha was demonstrated to members of the public at the BRE Watford smart home test bed.
 
 ## Education
 
