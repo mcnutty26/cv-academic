@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: William Seymour - Curriculum Vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# William Seymour
+DPhil Researcher
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="william.seymour@cs.ox.ac.uk">william.seymour@cs.ox.ac.uk</a>
+| <a href="https://www.cs.ox.ac.uk/people/william.seymour/">Profile</a>
 </div>
 
 
@@ -27,20 +27,13 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012 - 2016`
+__MEng Computer Science__ University of Warwick, First Class Honours
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016 - present`
+__DPhil Cybersecurity__ University of Oxford, Supervised by Max Van Kleek
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Thesis title: Privacy-Empowering Technologies for the Connected Home
 
 ## Awards
 
