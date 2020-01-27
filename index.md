@@ -7,7 +7,7 @@ DPhil Researcher
 
 <div id="webaddress">
 <a href="william.seymour@cs.ox.ac.uk">william.seymour@cs.ox.ac.uk</a>
-| <a href="https://www.cs.ox.ac.uk/people/william.seymour/">Profile</a>
+| <a href="https://www.cs.ox.ac.uk/people/william.seymour/">Research Profile</a>
 </div>
 
 
@@ -37,16 +37,19 @@ __DPhil Cybersecurity__ University of Oxford, Supervised by Max Van Kleek
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+ACM SIGCHI Student Research Compettition *Winner*
 
-Associate, *French Academy of Science*, Paris, France
+`2018` 
+ACM SIGCHI Student Research Compettition *Runner Up*
 
-
+`2016-2020`
+Scholar of Kellogg College
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
+Informing the Design of Privacy-Empowering Tools for the Connected Home. *W. Seymour*, M. J. Kraemer, R. Binns, M. Van Kleek. *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*.
 
 ### Journals
 
