@@ -10,20 +10,24 @@ DPhil Researcher
 | <a href="https://www.cs.ox.ac.uk/people/william.seymour/">Research Profile</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
+## Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+## Projects
+
+`2019 - 2020`
+__Informing the Future of Data Protection in Smart Homes__, Information Commissioners' Office
+- Designed and prototyped novel smart home devices to mitigate privacy and data protection concerns in the smart home
+- Based on the outcomes of a six month longitudinal study on smart home adoption and privacy practices
+- Interviewed smart home device developers and designers to evaluate designs and understand 
+
+`2018-2019`
+__Respctful Things in Private Spaces__, EPSRC
+
+`2019`
+__IoT in the Home Demonstrator__, EPSRC
+- Developed 
 
 ## Education
 
@@ -57,6 +61,51 @@ Computer Security, Imperative Programming I & II
 `Masters`
 Interaction Design, Structured Data
 
+## Research Skills
+
+__Methodologies__
+- User Studies
+- Interviews
+- Thematic Analysis
+- Technology Probes
+- Speculative Design
+- Design Fiction
+
+__Programming__
+- Python
+- R
+- SQL
+- LaTeX
+- Julia
+- Java
+- Javascript
+- Typescript
+- Bash
+
+## Outreach
+
+`2019`
+Smart-Home Study Weighs the Privacy Risks Involved
+- M. J. Kraemer, *W. Seymour*
+- *Privacy Laws and Business, September 2019 Edition*
+
+Digital Privacy and Wellbeing Stand
+- *Oxford Science and Ideas Festival*
+
+`2018`
+Who’s Storing your Conversations?
+- *W. Seymour*
+- *Inspired Research, Summer 2018 Edition*
+
+Can a Machine Pick a Perfect Christmas Gift?
+- *Oxford Sparks Podcast, December 2018*
+
+## Software
+
+`2019 - present`
+Aretha: Smart home network disaggregator and data flow visualiser
+- [Code Respository on GitHub](https://github.com/OxfordHCC/Aretha)
+
 ## Publications
 
 `2020`
@@ -65,7 +114,7 @@ Informing the Design of Privacy-Empowering Tools for the Connected Home.
 - *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*.
 
 'I Just Want to Hack Myself to Not Get Distracted': Evaluating Design Interventions for Self-Control on Facebook.
-- Ulrik Lyngs, Kai Lukoff, Petr Slovak, *William Seymour*, Helena Webb, Marina Jirotka, Max Van Kleek, Nigel Shadbolt.
+- U. Lyngs, K. Lukoff, P. Slovak, *W. Seymour*, H. Webb, M. Jirotka, M. Van Kleek, N. Shadbolt.
 - *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*.
 
 `2019`
@@ -74,7 +123,7 @@ Aretha: A Respectful Voice Assistant for the Smart Home.
 - *Living in the Internet of Things 2019: Cybersecurity of the IoT*
 
 IoT Refine: Making Smart Home Devices Accountable for Their Data Harvesting Practices.
-- M Van Kleek, *W Seymour*, R Binns, J Zhao, D Karandikar, N Shadbolt.
+- M. Van Kleek, *W. Seymour*, R. Binns, J. Zhao, D. Karandikar, N. Shadbolt.
 - *Living in the Internet of Things 2019: Cybersecurity of the IoT*
 
 `2018`
@@ -118,21 +167,3 @@ Social Acceptability and Respectful Smart Assistants
 Detecting Bias: Does an Algorithm Have to Be Transparent in Order to Be Fair?
 - W. Seymour
 - *BIAS - Bias in Information, Algorithms, and Systems (iConference '18 Workshop)*
-
-## Projects
-
-`2019 - 2020`
-__Informing the Future of Data Protection in Smart Homes__, Information Comissioners' Office
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: January 2020 -->
-
-
