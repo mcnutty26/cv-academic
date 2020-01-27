@@ -12,7 +12,7 @@ DPhil Researcher
 
 ## Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+The modern connected home can be a busy and confusing space. My research focusses on understanding the concerns that people have when they use smart/connected devices, both for themselves and their families. This insight is used to develop solutions and design artefacts that empower people to take control of their privacy and autonomy, pushing back unwanted encroachment of the digital on everyday life.
 
 ## Projects
 
@@ -23,10 +23,12 @@ Based on the outcomes of a six month ethnographic study, I designed and prototyp
 
 `2018-2019`
 __Respctful Things in Private Spaces__, EPSRC and Building Research Establishment
+
 Drawing on thinking from Kant to the present day, I explored how philosophical accounts of respect might be adapted for the smart home, and developed these into a high level design goal for smart devices. I also interviewed users of smart home devices to investigate what 'smartness' means to non-experts.
 
 `2019`
 __IoT in the Home Demonstrator__, EPSRC
+
 I developed a smart home network disaggregator that analyses and visualises network traffic flows in the home. Users are presented with a breakdown of the companies to which their devices send data, as well as their geographic location. Later versions of the disaggregator also featured an educational curriculum and firewall control.
 
 ## Education
@@ -134,7 +136,7 @@ Social Acceptability and Respectful Smart Assistants
 - *(Un)Acceptable!?! – Re−thinking the Social Acceptability of Emerging Technologies (CHI '18 Workshop)*
 
 Detecting Bias: Does an Algorithm Have to Be Transparent in Order to Be Fair?
-- W. Seymour
+- *W. Seymour*
 - *BIAS - Bias in Information, Algorithms, and Systems (iConference '18 Workshop)*
 
 ## Software
