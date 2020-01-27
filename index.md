@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: William Seymour - Curriculum Vitae
+title: William Seymour
 ---
 # William Seymour
 DPhil Researcher
@@ -10,7 +10,7 @@ DPhil Researcher
 | <a href="https://www.cs.ox.ac.uk/people/william.seymour/">Research Profile</a>
 </div>
 
-## Research interests
+## Research Interests
 
 The modern connected home can be a busy and confusing space. My research focusses on understanding the concerns that people have when they use smart/connected devices, both for themselves and their families. This insight is used to develop solutions and design artefacts that empower people to take control of their privacy and autonomy, pushing back unwanted encroachment of the digital on everyday life.
 
@@ -68,7 +68,7 @@ Interaction Design, Structured Data
 
 __Methodology__
 - Designing interviews, surveys, and user studies
-- Developing and deploying technology Probes
+- Developing and deploying technology probes
 - Creating speculative and fictional design artefacts
 - Thematic Analysis
 
