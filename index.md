@@ -18,27 +18,28 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 `2019 - 2020`
 __Informing the Future of Data Protection in Smart Homes__, Information Commissioners' Office
-- Designed and prototyped novel smart home devices to mitigate privacy and data protection concerns in the smart home
-- Based on the outcomes of a six month longitudinal study on smart home adoption and privacy practices
-- Interviewed smart home device developers and designers to evaluate designs and understand 
+
+Based on the outcomes of a six month ethnographic study, I designed and prototyped a series of novel smart home devices that mitigate data protection and privacy concerns. I also conducted interviews with smart home device developers and designers in order to evaluate the designs and understand the data protection landscape from the perspective of industry.
 
 `2018-2019`
-__Respctful Things in Private Spaces__, EPSRC
+__Respctful Things in Private Spaces__, EPSRC and Building Research Establishment
+Drawing on thinking from Kant to the present day, I explored how philosophical accounts of respect might be adapted for the smart home, and developed these into a high level design goal for smart devices. I also interviewed users of smart home devices to investigate what 'smartness' means to non-experts.
 
 `2019`
 __IoT in the Home Demonstrator__, EPSRC
-- Developed 
+I developed a smart home network disaggregator that analyses and visualises network traffic flows in the home. Users are presented with a breakdown of the companies to which their devices send data, as well as their geographic location. Later versions of the disaggregator also featured an educational curriculum and firewall control.
 
 ## Education
-
-`2012 - 2016`
-__MEng Computer Science__ University of Warwick
-- First Class Honours
 
 `2016 - present`
 __DPhil Cybersecurity__ University of Oxford
 - Supervised by Max Van Kleek
-- Thesis title: Privacy-Empowering Technologies for the Connected Home
+- Human Centred Computing Group, Department of Computer Science
+- Thesis: Privacy-Empowering Technologies for the Connected Home
+
+`2012 - 2016`
+__MEng Computer Science__ University of Warwick
+- First Class Honours
 
 ## Awards
 
@@ -53,7 +54,7 @@ Scholar of Kellogg College
 
 ## Teaching
 `A Level`
-AI and Ethics, UNIQ Spring/Summer Schools
+AI and Ethics (UNIQ Spring/Summer Schools)
 
 `Undergraduate`
 Computer Security, Imperative Programming I & II
@@ -63,48 +64,16 @@ Interaction Design, Structured Data
 
 ## Research Skills
 
-__Methodologies__
-- User Studies
-- Interviews
+__Methodology__
+- Designing interviews, surveys, and user studies
+- Developing and deploying technology Probes
+- Creating speculative and fictional design artefacts
 - Thematic Analysis
-- Technology Probes
-- Speculative Design
-- Design Fiction
 
-__Programming__
-- Python
-- R
-- SQL
-- LaTeX
-- Julia
-- Java
-- Javascript
-- Typescript
-- Bash
-
-## Outreach
-
-`2019`
-Smart-Home Study Weighs the Privacy Risks Involved
-- M. J. Kraemer, *W. Seymour*
-- *Privacy Laws and Business, September 2019 Edition*
-
-Digital Privacy and Wellbeing Stand
-- *Oxford Science and Ideas Festival*
-
-`2018`
-Who’s Storing your Conversations?
-- *W. Seymour*
-- *Inspired Research, Summer 2018 Edition*
-
-Can a Machine Pick a Perfect Christmas Gift?
-- *Oxford Sparks Podcast, December 2018*
-
-## Software
-
-`2019 - present`
-Aretha: Smart home network disaggregator and data flow visualiser
-- [Code Respository on GitHub](https://github.com/OxfordHCC/Aretha)
+__Software__
+- Programming: Python, Julia, Java, Javascript, Typescript, Bash
+- Data Processing: R, SQL
+- Documents: LaTeX, Vim, Pages, Keynote, MS Office
 
 ## Publications
 
@@ -167,3 +136,28 @@ Social Acceptability and Respectful Smart Assistants
 Detecting Bias: Does an Algorithm Have to Be Transparent in Order to Be Fair?
 - W. Seymour
 - *BIAS - Bias in Information, Algorithms, and Systems (iConference '18 Workshop)*
+
+## Software
+
+`2019 - present`
+Aretha: Smart home network disaggregator and data flow visualiser
+- [Code Respository on GitHub](https://github.com/OxfordHCC/Aretha)
+
+Oxford Human Centred Computing Group Blog
+- [View Online](https://hcc.cs.ox.ac.uk)
+
+## Outreach
+
+`2019`
+Smart-Home Study Weighs the Privacy Risks Involved
+- *Article in Privacy Laws and Business, September 2019 Edition*
+
+Digital Privacy and Wellbeing
+- *Stand at the 2019 Oxford Science and Ideas Festival*
+
+`2018`
+Who’s Storing your Conversations?
+- *Article in Inspired Research, Summer 2018 Edition*
+
+Can a Machine Pick a Perfect Christmas Gift?
+- *Oxford Sparks Podcast, December 2018*
