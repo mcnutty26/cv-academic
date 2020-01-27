@@ -7,7 +7,7 @@ DPhil Researcher
 
 <div id="webaddress">
 <a href="william.seymour@cs.ox.ac.uk">william.seymour@cs.ox.ac.uk</a>
-| <a href="https://www.cs.ox.ac.uk/people/william.seymour/">Research Profile</a>
+| <a href="https://www.cs.ox.ac.uk/people/william.seymour/">cs.ox.ac.uk/people/william.seymour</a>
 </div>
 
 ## Research Interests
