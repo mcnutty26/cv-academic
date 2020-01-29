@@ -130,7 +130,7 @@ How loyal is your Alexa? Imagining a Respectful Smart Assistant
 - *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems*
 
 The Need for Sensemaking in Networked Privacy and Algorithmic Responsibility
-- M. Van Kleek‚ *W. Seymour*‚ M. Veale‚ R. Binns and N. Shadbolt
+- M. Van Kleek‚ *W. Seymour*‚ M. Veale‚ R. Binns, N. Shadbolt
 - *Sensemaking in a Senseless World (CHI '18 Workshop)*
 
 Social Acceptability and Respectful Smart Assistants
