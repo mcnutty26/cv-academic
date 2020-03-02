@@ -112,24 +112,6 @@ Respectful Things: Adding Social Intelligence to Smart Devices.
 - M. Van Kleek, *W. Seymour*, R. Binns, N. Shadbolt.
 - *Living in the Internet of Things 2018: Cybersecurity of the IoT*
 
-### Under Submission
-
-Strangers in the Room: Unpacking Perceptions of 'Smartness' and Related Ethical Concerns in the Home
-- *W. Seymour*, R. Binns, P. Slovak, M. Van Kleek, N. Shadbolt
-- *Submitted to the 2020 ACM Conference on Designing Interactive Systems*
-
-Examining Interactions Between Trust, Anthropomorphism, and Relationship Development in Voice Assistants
-- *W. Seymour*, M. Van Kleek
-- *Submitted to the 2020 ACM Conference on Designing Interactive Systems*
-
-Should Smart Mean Respectful? A Descriptive Typology of How Smart Devices Might Prioritise Users' Needs
-- *W. Seymour*, M. Van Kleek
-- *Submitted to Communications of the ACM*
-
-"Put the Password in the Kitchen Cupboard": Exploring Data Protection by Design in Connected Communal Spaces
-- M. J. Kraemer, N. Nthala, P. Fiddi, *W. Seymour*, I. Flechais
-- Submitted to the 2020 Usenix Symposium on Usable Privacy and Security
-
 ### Workshops & Abstracts
 
 `2020`
