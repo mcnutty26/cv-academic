@@ -66,6 +66,14 @@ Computer Security, Imperative Programming I & II
 `Masters`
 Interaction Design, Structured Data
 
+## Internships
+
+`2016`
+__Context Information Security__, System Administrator
+
+`2014`
+__NextJump__, Web Developer
+
 ## Research Skills
 
 __Methodology__
@@ -104,12 +112,38 @@ Respectful Things: Adding Social Intelligence to Smart Devices.
 - M. Van Kleek, *W. Seymour*, R. Binns, N. Shadbolt.
 - *Living in the Internet of Things 2018: Cybersecurity of the IoT*
 
+### Under Submission
+
+Strangers in the Room: Unpacking Perceptions of 'Smartness' and Related Ethical Concerns in the Home
+- *W. Seymour*, R. Binns, P. Slovak, M. Van Kleek, N. Shadbolt
+- *Submitted to the 2020 ACM Conference on Designing Interactive Systems*
+
+Examining Interactions Between Trust, Anthropomorphism, and Relationship Development in Voice Assistants
+- *W. Seymour*, M. Van Kleek
+- *Submitted to the 2020 ACM Conference on Designing Interactive Systems*
+
+Should Smart Mean Respectful? A Descriptive Typology of How Smart Devices Might Prioritise Users' Needs
+- *W. Seymour*, M. Van Kleek
+- *Submitted to Communications of the ACM*
+
+"Put the Password in the Kitchen Cupboard": Exploring Data Protection by Design in Connected Communal Spaces
+- M. J. Kraemer, N. Nthala, P. Fiddi, *W. Seymour*, I. Flechais
+- Submitted to the 2020 Usenix Symposium on Usable Privacy and Security
+
 ### Workshops & Abstracts
 
 `2020`
 A Design Philosophy for Agents in the Smart Home
 - *W. Seymour*
 - *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems*
+
+Does Siri Have a Soul? Exploring Voice Assistants Through Shinto Design Fictions
+- *W. Seymour*, M. Van Kleek
+- *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems*
+
+Responsibility and Privacy: Caring for a Dependent in a Digital Age
+- M. J. Kraemer, *W. Seymour*, I. Flechais
+- *Privacy and Power: Acknowledging the Importance of Privacy Research and Design for Vulnerable Populations (CHI '20 Workshop)*
 
 `2019`
 Privacy Therapy with Aretha: What if your firewall could talk?
@@ -130,7 +164,7 @@ How loyal is your Alexa? Imagining a Respectful Smart Assistant
 - *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems*
 
 The Need for Sensemaking in Networked Privacy and Algorithmic Responsibility
-- M. Van Kleek‚ *W. Seymour*‚ M. Veale‚ R. Binns and N. Shadbolt
+- M. Van Kleek‚ *W. Seymour*‚ M. Veale‚ R. Binns, N. Shadbolt
 - *Sensemaking in a Senseless World (CHI '18 Workshop)*
 
 Social Acceptability and Respectful Smart Assistants
