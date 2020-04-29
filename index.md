@@ -98,6 +98,10 @@ Informing the Design of Privacy-Empowering Tools for the Connected Home.
 - U. Lyngs, K. Lukoff, P. Slovak, *W. Seymour*, H. Webb, M. Jirotka, M. Van Kleek, N. Shadbolt.
 - *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*.
 
+Strangers in the Room: Unpacking Perceptions of 'Smartness' and Related Ethical Concerns in the Home.
+- *W. Seymour*, R. Binns, Petr Slovak, M. Van Kleek, N. Shadbolt.
+- *Proceedings of the 2020 Conference on Designing Interactive Systems*.
+
 `2019`
 Aretha: A Respectful Voice Assistant for the Smart Home.
 - *W. Seymour*, M. Van Kleek, R. Binns, N. Shadbolt.
