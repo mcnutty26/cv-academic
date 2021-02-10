@@ -6,7 +6,7 @@ title: William Seymour
 Research Associate
 
 <div id="webaddress">
-<a href="william.1.seymour@kcl.ac.uk">william.1.seymour@kcl.ac.uk</a>
+<a href="mailto:william.1.seymour@kcl.ac.uk">william.1.seymour@kcl.ac.uk</a>
 | <a href="https://wseymour.co.uk">wseymour.co.uk</a>
 </div>
 
