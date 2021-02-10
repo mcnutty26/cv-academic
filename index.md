@@ -19,6 +19,7 @@ I wish to continue exploring questions about the nature of people's understandin
 ## Projects
 `2021 - 2023`
 __Secure AI Assistants__, EPSRC
+
 SAIS (Secure AI assistantS) is a cross-disciplinary collaboration providing an understanding of attacks on the AI assistant ecosystem. It will explore the feasibility and severity of potential attacks from a strategic threat and risk approach, methods to specify & verify the security behaviour of AIS, and the generation of co-created security explanations for AIS behaviour.
 
 `2019 - 2020`
